@@ -1,6 +1,8 @@
 # portfolioHtmlCss
 
 This is a portfolio template designed for showcasing your recent posts and professional works.
+The repository is constructed using HTML and CSS.
+
 To use this template for your own portfolio:
 
 1. Fork or clone the repository to your local machine.
